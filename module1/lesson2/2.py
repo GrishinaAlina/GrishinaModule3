@@ -1,0 +1,5 @@
+name, count = input().split(" ")
+name = int(name)
+count = int(count)
+print(name)
+print(count)
